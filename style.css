@@ -1,0 +1,49 @@
+body{
+    background-color: lightblue;
+}
+
+.nav-bar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    
+    width: 100%;
+    background-color: white;
+    text-align: right;
+    border-style: solid ;
+    border-color: lightgray;
+    border-width: 0 0 4px 0;
+
+}
+
+.h1{
+    font-size: 30px;
+}
+
+.button{
+    background-color: blue;
+    font-size: 14;
+    color: white;
+}
+
+.entry-fields{
+    background-color: white;
+    padding: 30px 30px 30px 30px;
+    margin:auto;
+    width: 20%;
+
+}
+
+.icon{
+    padding: 5px 5px 5px 5px;
+    
+    
+}
+
+#submit-button{
+    background-color: blue;
+    font-size: 16;
+    color: white;
+    margin: auto;
+    width: 85%;
+}
