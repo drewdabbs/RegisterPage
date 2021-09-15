@@ -26,17 +26,28 @@ body{
     color: white;
 }
 
+#container{
+    padding: 30px 30px 30px 30px;
+}
+
 .entry-fields{
     background-color: white;
     padding: 30px 30px 30px 30px;
     margin:auto;
     width: 20%;
+   
+}
 
+.inputs{
+    border-color: lightgray;
+    border-style: ridge;
 }
 
 .icon{
     padding: 5px 5px 5px 5px;
-    
+    justify-content: center;
+    align-items: center;
+
     
 }
 
